@@ -1,0 +1,10 @@
+{
+  "name": "Talk to Sagar's AI",
+  "description": "A conversational, AI-powered portfolio providing instant, interactive insights into Sagar’s professional projects, skills, and background.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
